@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import './content-section.css'
+import './content-section.less'
 
 class ContentSection extends Component {
 
