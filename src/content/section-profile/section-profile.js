@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import ContentSection from "../../components/content-section/content-section";
 import profilepic from "../../img/profile-min.gif"
-import "./section-profile.css"
+import "./section-profile.less"
 
 class SectionProfile extends Component {
     render() {
@@ -15,7 +15,7 @@ class SectionProfile extends Component {
                     <ul>
                         <li>Self-taught programmer</li>
                         <li>Likes Simcity</li>
-                        <li>Snowboards and windsurfs</li>
+                        <li>Snowboards and Windsurfs</li>
                     </ul>
                 </div>
             </ContentSection>

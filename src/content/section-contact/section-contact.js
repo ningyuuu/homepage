@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import ContentSection from "../../components/content-section/content-section";
-import "./section-contact.css"
+import "./section-contact.less"
 
 class SectionContact extends Component {
     render() {

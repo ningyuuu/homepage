@@ -9,7 +9,7 @@
     position: fixed;
     top: 0;
     width: 100%;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.3);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
 }
 
 .navbar li {
@@ -30,8 +30,8 @@
 .footer {
     background-color: #000044;
     font-color: white;
-    height:80px;
-    width:100%;
+    height: 80px;
+    width: 100%;
     position: fixed;
     bottom: 0;
     /*box-shadow: 0 -2px 5px rgba(0,0,0,0.3);*/

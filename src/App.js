@@ -1,8 +1,8 @@
 import React, {Component} from 'react';
 import './App.css';
 import SectionProfile from "./content/section-profile/section-profile";
-import SectionProject from "./content/section-projects/section-projects";
-import SectionContact from "./content/section-contact/section-contact";
+import SectionProject from "./content/section-education/section-education";
+// import SectionContact from "./content/section-contact/section-contact";
 
 class App extends Component {
     render() {
@@ -18,7 +18,7 @@ class App extends Component {
                 <div className="content">
                     <SectionProfile/>
                     <SectionProject/>
-                    <SectionContact/>
+                    {/*<SectionContact/>*/}
                 </div>
                 <div className="footer">
 
