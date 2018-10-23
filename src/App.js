@@ -3,7 +3,7 @@ import './App.less';
 import {
     BrowserRouter as Router, Route, Link
 } from 'react-router-dom'
-import CVHome from "./cv/cv-home/cv-home";
+import CVHome from './cv/cv-home/cv-home';
 
 class App extends Component {
     render() {
